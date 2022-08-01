@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+# App setting file
+client_secret*
+setting.json
+
+# App output file
+output_googleforms.json
